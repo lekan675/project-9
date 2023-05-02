@@ -1,2 +1,2 @@
 # project-9
-CONTINOUS INTEGRATION PIPELINE FOR TOOLING WEBSITE
+Continous Integration Pipeline for Tooling Website
